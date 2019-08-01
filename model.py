@@ -7,12 +7,12 @@ import chainer.functions as F
 import chainer.links as L
 
 
-class UNet(chainer.Chain):
+class UNet_dilate(chainer.Chain):
 
     insize = 128
 
     def __init__(self, n_class=3, bn=True, wpad=True):
-        super(UNet, self).__init__()
+        super(UNet_dilate, self).__init__()
 
         pad = 1 if wpad else 0
         self.outsize = self.insize if wpad else (self.insize - 92)
