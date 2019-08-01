@@ -6,4 +6,4 @@ Water/Ice/Land region classification is an important remote sensing tasks, which
 
 **Citation:** P. Vinayaraj, N. Immoglue, R. Nakamura, “Deep learning model for water/ice/land classification using largescale medium resolution satellite images”, IEEE-GRSS International Geoscience and Remote Sensing Symposium (IGARSS), 2019, Yokohama, Japan
 
-**Notes:** An example dataset is given in the 'data' folder with Landsat meta data file. Six bands are used for classification (Blue, Green, Red, NIR, SWIR1, SWIR2)
+**Notes:** An example dataset is given in the 'data' folder with Landsat meta data file and 'pred_list.txt' where, list of the Landsat-8 images can be given.  Six bands are used for classification (Blue, Green, Red, NIR, SWIR1, SWIR2)
