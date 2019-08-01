@@ -1,1 +1,0 @@
-Raw Level 1 dataset should be added in this folder, along with metadata file (*MLT.txt), this file will use to generate the TOA reflectance
