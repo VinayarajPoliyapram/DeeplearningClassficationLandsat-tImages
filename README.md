@@ -14,6 +14,6 @@ Water/Ice/Land region classification is an important remote sensing tasks, which
 
 **Prediction:** 
 
-python Predict.py
+_ python Predict.py _
 
 Generates numpy  array of classification
