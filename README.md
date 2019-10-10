@@ -11,3 +11,9 @@ Water/Ice/Land region classification is an important remote sensing tasks, which
 2. list of the Landsat-8 images can be given as'pred_list.txt'. 
 3. Six bands are used for classification (Blue, Green, Red, NIR, SWIR1, SWIR2)
 4. Trained model weights at 90 epoch were used for prediction
+
+**Prediction:** 
+
+python Predict.py
+
+Generates numpy  array of classification
