@@ -12,7 +12,7 @@ Water/Ice/Land region classification is an important remote sensing tasks, which
 3. Six bands are used for classification (Blue, Green, Red, NIR, SWIR1, SWIR2)
 4. Trained model weights at 90 epoch were used for prediction
 
-**Prediction:** 
+**one line command for prediction:** 
 
 *python Predict.py*
 
